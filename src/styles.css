@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #95b8d1;
+}
+.wrapper {
+  background-color: white;
+  width: 300px;
+  margin: auto;
+  margin-top: 50px;
+  padding: 5px;
+  text-align: center;
+}
+button {
+  color: white;
+  background-color: #95b8d1;
+  padding: 5px;
+}
+.result {
+  color: #95b8d1;
+}
+input {
+  padding: 5px;
+}
+.alert {
+  color: red;
+  background: pink;
+  padding: 5px;
+  width: 200px;
+  margin: 15px auto;
+}
